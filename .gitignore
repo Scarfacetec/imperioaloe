@@ -1,0 +1,13 @@
+# Sistema e arquivos temporários
+Thumbs.db
+Desktop.ini
+tmp/
+
+# Materiais de referência que não são usados pelo site publicado
+*.pdf
+WhatsApp Image *.jpeg
+WhatsApp Video *.mp4
+
+# Imagens-fonte individuais não usadas pelo layout atual
+img/produtos (*.jpg
+img/img168.jpg
