@@ -1,0 +1,17 @@
+{
+  "name": "Imperio Aloe",
+  "short_name": "Imperio Aloe",
+  "description": "Aloe vera, bem-estar e autocuidado.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#fffaf8",
+  "theme_color": "#f7e2df",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
